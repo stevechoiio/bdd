@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Miss Jermain Waters",
+    "age": 31,
+    "yearsExperience": 3,
+    "satisfaction": 2,
+    "project1": "pass",
+    "project2": "fail",
+    "project3": "fail",
+    "project4": "pass"
+  },
+  {
+    "name": "Juliana Runte",
+    "age": 42,
+    "yearsExperience": 3,
+    "satisfaction": 2,
+    "project1": "fail",
+    "project2": "fail",
+    "project3": "fail",
+    "project4": "pass"
+  }
+]
